@@ -18,7 +18,7 @@ Google 开源项目风格指南 (中文版)
 英文版项目维护的是在 Google 使用的编程风格指南. 如果你正在修改的项目源自 Google, 你可能会被引导至
 英文版项目页面, 以了解项目所使用的风格.
 
-我们已经发布了五份 **中文版** 的风格指南:
+我们已经发布的 **中文版** 的风格指南:
 
 #. `Google C++ 风格指南 <http://zh-google-styleguide.readthedocs.org/en/latest/google-cpp-styleguide/>`_
 
@@ -29,6 +29,8 @@ Google 开源项目风格指南 (中文版)
 #. `Google JSON 风格指南 <https://github.com/darcyliu/google-styleguide/blob/master/JSONStyleGuide.md>`_
 
 #. `Google Shell 风格指南 <http://zh-google-styleguide.readthedocs.org/en/latest/google-shell-styleguide/>`_
+
+#. `Linux 内核代码(C) 风格指南 <https://www.kernel.org/doc/html/v5.1/translations/zh_CN/coding-style.html>`_
 
 
 中文版项目采用 reStructuredText 纯文本标记语法, 并使用 Sphinx 生成 HTML / CHM / PDF 等文档格式.
